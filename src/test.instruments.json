@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "644288e9d8043cc891b6c412"
+  },
+  "instrument": "Clarinet",
+  "rating": "11/10",
+  "description": "Simply the best wind instrument to ever exist, has the biggest range, and not annoying like almost every other wind instruments. Downside is no vibrato, but who needs that when you have the best sound? Easily has the smartest and funnest section as well. Fits in marching bands, wind symphonies, orchestras, and jazz.",
+  "solos": "Copland, Nielson, Weber, Mozart",
+  "pros": "Martin Fröst, Sabine Meyer, Benny Goodman",
+  "sound": "https://www.youtube.com/watch?v=9GnJBLwOjFo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64481f80589b691e8734b534"
+  },
+  "instrument": "Flute",
+  "rating": "8/10",
+  "description": "Flutes would have a nice sound with their amazing vibrato if they weren't sharp all the time. Flute players are either the most sweet and talented people ever or the biggest bitches (maybe both).",
+  "solos": "Syrinx, Chant de Linos, Mozart 1",
+  "pros": "James Galway, Ian Anderson, Jasmine Choi",
+  "sound": "https://www.youtube.com/watch?v=0ExqsbrOPN4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644820cf589b691e8734b536"
+  },
+  "instrument": "Trumpet",
+  "rating": "1/10",
+  "description": "The most obnoxious instrument ever made. 90% of everyone who plays trumpet is untalented, don't care, and sound horrible. The remaining 10%, however, sound amazing and are the coolest people ever.",
+  "solos": "Hayden, Arutunian, Brandenberg Concerto",
+  "pros": "nonexistent",
+  "sound": "https://www.youtube.com/watch?v=ZUZYoVw7moc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644824b7589b691e8734b538"
+  },
+  "instrument": "Oboe",
+  "rating": "10/10",
+  "description": "-1 for spending all the time making reeds. Otherwise the second best wind instrument (after clarinets of course). All oboe players are the coolest people ever.",
+  "solos": "Albinoni, Williams, Marcello, Bach",
+  "pros": "Heinz Holliger, Albrecht Mayer",
+  "sound": "https://www.youtube.com/watch?v=LjgndGuy77o",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64482609589b691e8734b53a"
+  },
+  "instrument": "Piccolo",
+  "rating": "0/10",
+  "description": "my ears are hurting.",
+  "solos": "-",
+  "pros": "-",
+  "sound": "https://www.youtube.com/watch?v=y-twGDZeYs4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644c16c8e96a15e82cb7d308"
+  },
+  "instrument": "Saxophone",
+  "rating": "9/10",
+  "description": "Super cool sound, fits into almost every music genres. Saxophones have the funniest players.",
+  "solos": "Careless Whisper...",
+  "pros": "John Coltrane",
+  "sound": "https://www.youtube.com/watch?v=izGwDsrQ1eQ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644c17e8e96a15e82cb7d30a"
+  },
+  "instrument": "French Horn",
+  "rating": "7/10",
+  "description": "Chill people, usually the most tolerable out of the brass section. Tough to tune but they do a good job!",
+  "solos": "En Forêt, Empire Sonata",
+  "pros": "Dennis Brain, Aubrey Brain, Sarah Willis",
+  "sound": "https://youtu.be/qda04Hod9is",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644c1930e96a15e82cb7d30c"
+  },
+  "instrument": "Trombone",
+  "rating": "3/10",
+  "description": "Slightly better than the trumpets since they have an actual sense of humor. Cool glisses. Produce wayyyy too much 'condensation'. ",
+  "solos": "Langford Rhapsody, Sonata Vox Gabrieli",
+  "pros": "Miff Mole, J.J. Johnson, Glenn Miller",
+  "sound": "https://www.youtube.com/watch?v=oEXCrAPyThc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64624711deb45bb7795f208e"
+  },
+  "instrument": "Euphonium",
+  "rating": "6/10",
+  "description": "A smaller tuba that sounds much more graceful. Typically played by losers or cool people, no in between. Good for solos every now and then.",
+  "solos": "Pantomime, Carnival of Venice, Beautiful Colorado",
+  "pros": "Steven Mead",
+  "sound": "https://www.youtube.com/watch?v=kjvuYlNLLtY&ab_channel=dshsbandgeek",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646248c9deb45bb7795f2090"
+  },
+  "instrument": "Tuba",
+  "rating": "3/10",
+  "description": "Is holding whole notes for the entire piece fun? Never in time with the percussion. Either sucks or very skilled, usually pretty chill people.",
+  "solos": "Hindemith Sonata, Williams Concerto, ",
+  "pros": "Øystein Baadsvik, Alan Baer, ",
+  "sound": "https://www.youtube.com/watch?v=vK5KaYXJsrg&ab_channel=Medtnaculus",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646249eddeb45bb7795f2093"
+  },
+  "instrument": "Percussion",
+  "rating": "9/10",
+  "description": "Coolest people ever, strong ability to count rests, never together with the bass (stop rushing!). Thank you for your work :)",
+  "solos": "..??",
+  "pros": "????",
+  "sound": "https://www.youtube.com/watch?v=kWrIK555xjs&ab_channel=BobFitzgerald",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64624cf6deb45bb7795f209b"
+  },
+  "instrument": "Violin",
+  "rating": "9/10",
+  "description": "Love the instrument itself, sounds extremely beautiful if played well. Its players, however, are often very stuck up.",
+  "solos": "Bach Chaconne, Saint-Saens Introduction, Mendelssohn, Sibelius, Beethoven",
+  "pros": "Paganini, Hilary Hahn, Janine Jansen, Midori Goto, Itzhak Perlman, Brett Yang and Eddy Chen :)",
+  "sound": "https://www.youtube.com/watch?v=0Cg_0jepxow&ab_channel=DetroitSymphonyOrchestra",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64624deddeb45bb7795f209d"
+  },
+  "instrument": "Viola",
+  "rating": "8/10",
+  "description": "May be the butt of every orchestra joke, but typically pretty solid and chill people.",
+  "solos": "Bach Viola Concerto in C minor, Clarke Viola Sonata",
+  "pros": "Paul Hindemith, Kim Kashkashian, Rebecca CLarke",
+  "sound": "https://www.youtube.com/watch?v=UzEFRNWEqQ4&ab_channel=MateuszMol%C4%99da",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64677024210488c097cfaf2c"
+  },
+  "instrument": "Cello",
+  "rating": "9/10",
+  "description": "Chill and beautiful instrument, skilled and overall nice players. Nothing bad to say.",
+  "solos": "Bach Cello Suite..., Brahms Symphony 3, Le Cygne, Dvorak Concerto, Elgar Concerto",
+  "pros": "Yo-Yo Ma, Pablo Casals",
+  "sound": "https://www.youtube.com/watch?v=1prweT95Mo0&ab_channel=YoYoMaVEVO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64677374210488c097cfaf2e"
+  },
+  "instrument": "Double Bass",
+  "rating": "2/10",
+  "description": "Most annoying people in the entire orchestra. May count worse than the violas. 2 points given because my cs teacher plays and they're a cool person.",
+  "solos": "just steal the cello ones",
+  "pros": "Edgar Meyer, Ray Brown, Ron Carter",
+  "sound": "https://www.youtube.com/watch?v=2VAY35eMHyU&ab_channel=MARC-ANDR%C3%89",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646d0a51210488c097cfaf30"
+  },
+  "instrument": "Piano",
+  "rating": "9/10",
+  "description": "Best instrument, but traumatising for all the children with scary teachers. Sounds amazing and has a large range, can play so many notes at once.",
+  "solos": "Anything by Chopin, Schumann Concerto, Heart and Soul!!!!",
+  "pros": "Lang Lang, Rachmaninoff, Liszt, Kousei Arima",
+  "sound": "https://www.youtube.com/watch?v=rEGOihjqO9w&ab_channel=AVROTROSKlassiek",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646d0bee210488c097cfaf32"
+  },
+  "instrument": "Harp",
+  "rating": "8/10",
+  "description": "Looks very cool, I've never met one though.",
+  "solos": "Mozart Concerto for Flute, Harp and Orchestra, Handel Concerto",
+  "pros": "Carlos Salzedo, Alice Coltrane",
+  "sound": "https://youtu.be/Xc6-KozGK3c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ecfb398de7d4a41ec66e5"
+  },
+  "instrument": "Bassoon",
+  "rating": "10/10",
+  "description": "Always the most chill and humble people in the orchestra, very talented and sound amazing",
+  "solos": "Saint-Saëns Sonata, Mozart Bassoon Concerto, Telemann Sonata",
+  "pros": "Edward Elgar, Julie Price",
+  "sound": "https://www.youtube.com/watch?v=xidC7TZRxkA",
+  "__v": 0
+}]

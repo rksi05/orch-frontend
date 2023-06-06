@@ -1,0 +1,87 @@
+ b{
+    position: relative;
+    top: 15%;
+    left: 5%;
+    padding: 50px 60px;
+    background: #d66969;
+    color:#555;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight:500;
+    font-size:1.2em;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+  }
+  b:hover{
+    background: #000000;
+    color: #fff;
+    letter-spacing: 5px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+  }
+
+  c{
+    position: relative;
+    top: 30%;
+    left: 5%;
+    padding: 50px 60px;
+    background: #e4c385;
+    color:#555;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight:500;
+    font-size:1.2em;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+  }
+  c:hover{
+    background: #000000;
+    color: #fff;
+    letter-spacing: 5px;
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+  }
+
+  d{
+    position: relative;
+    top: 45%;
+    left: 5%;
+    padding: 50px 60px;
+    background: #2b1d05;
+    color:#ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight:500;
+    font-size:1.2em;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+  }
+  d:hover{
+    background: #000000;
+    color: #fff;
+    letter-spacing: 5px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+  }
+
+  e{
+    position: relative;
+    top: 60%;
+    left: 5%;
+    padding: 50px 60px;
+    background: #5f5f5f;
+    color:#ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight:500;
+    font-size:1.2em;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+  }
+  e:hover{
+    background: #000000;
+    color: #fff;
+    letter-spacing: 5px;
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+  }

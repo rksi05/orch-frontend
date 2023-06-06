@@ -1,0 +1,75 @@
+body {
+  background-color: black;
+  font-family: arial;
+  margin: 0;
+}
+
+.wrapper_outer{
+  height: 100vh;
+  overflow: hidden;
+}
+
+.wrapper{
+  height:100%;
+  overflow-x: hidden;
+  perspective: 1px;
+}
+
+.parallax_section{
+  min-height: 100vh;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.parallax_section h2{
+  color: #fff;
+  padding-top: 25%;
+  margin: 0;
+  font-size: 120px;
+  font-family: perpetua;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.parallax_section h4{
+  color: #fff;
+  padding-top: 10%;
+  margin: 0;
+  font-size: 20px;
+  font-family: perpetua;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+  text-align: center;
+}
+
+.parallax_bg{
+  background-image: url("hall.jpg");
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center center;
+  z-index: -1;
+  min-height: 100%;
+  transform:translate3d(0,0,-1px) scale(2);
+}
+
+.parallax_bg2{
+  background-image: url("art.jpg");
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center center;
+  z-index: -1;
+  min-height: 100%;
+}
